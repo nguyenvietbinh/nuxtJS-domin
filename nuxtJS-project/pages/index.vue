@@ -1,10 +1,9 @@
 <template>
-    <div class="bg-primary text-black p-6">
-        <h1 class="text-4xl">Hello, Nuxt with Tailwind!</h1>
-    </div>
+    <NuxtLink class="hover:underline" to="/gameWindown">click here to join</NuxtLink>
 </template>
 
 
 <script>
-console.log('anh binh dep trai')
+
+
 </script>
